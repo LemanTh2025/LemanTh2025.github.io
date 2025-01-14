@@ -1,2 +1,2 @@
-# LemanTh2024.github.io
-Website of the LemanTH 2024 event
+# LemanTh2025.github.io
+Website of the LemanTH 2025 event

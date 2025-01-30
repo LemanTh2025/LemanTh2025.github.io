@@ -14,30 +14,30 @@ TBA
 
 # Invited speakers
 
-Giulio Biroli
-Florentin Guth 
-Dimitry Krotov
-Borjan Geshkovski
-Clement Hongler
-Eric DeGiuli
-Theodor Misiakiewicz
-Elisabetta Cornacchia
-Yohai Bar-Sinai
-Marylou Gabrié
-Brice Menard
-Luca Ambrogioni
-Francesca Mignacco
-Zhou Fan
-Antonio Sclocchi
-Gael Richard
-Etienne Lempereur
-Lenka Zdeborová
-Kimia Nadjahi
-Nati Srebro
-Francesco Cagnetta
-Arthur Jacot
-Federica Gerace
-Marc Mezard
-Francois Charton
-Berfin Simsek
-Eric Vanden-Eijnden
+- Giulio Biroli
+- Florentin Guth
+- Dimitry Krotov
+- Borjan Geshkovski
+- Clement Hongler
+- Eric DeGiuli
+- Theodor Misiakiewicz
+- Elisabetta Cornacchia
+- Yohai Bar-Sinai
+- Marylou Gabrié
+- Brice Menard
+- Luca Ambrogioni
+- Francesca Mignacco
+- Zhou Fan
+- Antonio Sclocchi
+- Gael Richard
+- Etienne Lempereur
+- Lenka Zdeborová
+- Kimia Nadjahi
+- Nati Srebro
+- Francesco Cagnetta
+- Arthur Jacot
+- Federica Gerace
+- Marc Mézard
+- François Charton
+- Berfin Simsek
+- Eric Vanden-Eijnden

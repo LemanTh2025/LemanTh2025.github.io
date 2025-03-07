@@ -6,11 +6,17 @@ __Organisers:__  Noam Itzhak Levi (AI4Science, EPFL) Matthieu Wyart (EPFL and Jo
 
 # Schedule
 
-TBA
+![schedule](schedule.png)
 
-# Place : EPFL, Lausanne, Bernoullli Center </a>
+# Venue :
+
+[Bernoullli Center](https://bernoulli.epfl.ch/), EPFL, Lausanne.
 
 # Registration
+
+Register by filling this [Google forms](https://forms.gle/joyyivJtNdPmckWQA ).
+
+Registration is free but mandatory. Note that due to limited space, registration does not guarantee acceptance. We will be contacting participants individually.
 
 # Invited speakers
 

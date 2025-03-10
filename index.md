@@ -5,6 +5,7 @@ The past decade brought a revolution to machine learning: algorithms are now abl
 __Organisers:__  Noam Itzhak Levi (AI4Science, EPFL) Matthieu Wyart (EPFL and Johns Hopkins University), Florent Krzakala (EPFL, IdePhics Lab.), and Bruno Loureiro (DI-ENS & CNRS)
 
 # Schedule
+Note that this is a preliminary schedule subjected to change.
 
 ![schedule](schedule.png)
 
@@ -20,30 +21,30 @@ Registration is free but mandatory. Note that due to limited space, registration
 
 # Invited speakers
 
-- Giulio Biroli
-- Florentin Guth
-- Dimitry Krotov
-- Borjan Geshkovski
-- Clement Hongler
-- Eric DeGiuli
-- Theodor Misiakiewicz
-- Elisabetta Cornacchia
-- Yohai Bar-Sinai
-- Marylou Gabrié
-- Brice Menard
-- Luca Ambrogioni
-- Francesca Mignacco
-- Zhou Fan
-- Antonio Sclocchi
-- Gael Richard
-- Etienne Lempereur
-- Lenka Zdeborová
-- Kimia Nadjahi
-- Nati Srebro
-- Francesco Cagnetta
-- Arthur Jacot
-- Federica Gerace
-- Marc Mézard
-- François Charton
-- Berfin Simsek
-- Eric Vanden-Eijnden
+- Giulio Biroli (ENS)
+- Florentin Guth (NYU)
+- Dimitry Krotov (IBM)
+- Clement Hongler (EPFL)
+- Eric DeGiuli (Toronto Metropolitan)
+- Theodor Misiakiewicz (Yale)
+- Elisabetta Cornacchia (INRIA)
+- Yohai Bar-Sinai (Tel Aviv)
+- Marylou Gabrié (ENS)
+- Brice Menard (JHU)
+- Luca Ambrogioni (Donder's)
+- Francesca Mignacco (Princeton)
+- Zhou Fan (Yale)
+- Antonio Sclocchi (UCL)
+- Gael Richard (Télécom Paris)
+- Etienne Lempereur (ENS)
+- Lenka Zdeborová (EPFL)
+- Kimia Nadjahi (ENS)
+- Nati Srebro (TTIC)
+- Francesco Cagnetta (SISSA)
+- Arthur Jacot (NYU)
+- Federica Gerace (Bologna)
+- Marc Mézard (Bocconi)
+- François Charton (META)
+- Berfin Simsek (NYU)
+- Eric Vanden-Eijnden (NYU & CFM)
+- Julia Kempe (NYU & META)

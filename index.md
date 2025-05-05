@@ -48,6 +48,5 @@ Registration is free but mandatory. Note that due to limited space, registration
 - Julia Kempe (NYU & META)
 - Pierfrancesco Urbani (IPhT)
 
-
-![EPFL AI Logo](https://ai.epfl.ch/wp-content/uploads/logo-black.svg)
-![BERNOULLI LOGO](https://bernoulli.epfl.ch/wp-content/uploads/2022/09/Bernoulli-Center-Logo-Black-Subtitle_1@4x.png)
+<img src="https://ai.epfl.ch/wp-content/uploads/logo-black.svg" alt="EPFL AI Logo" width="200">
+<img src="https://bernoulli.epfl.ch/wp-content/uploads/2022/09/Bernoulli-Center-Logo-Black-Subtitle_1@4x.png" alt="EPFL B Logo" width="200">

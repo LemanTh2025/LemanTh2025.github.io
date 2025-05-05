@@ -47,3 +47,7 @@ Registration is free but mandatory. Note that due to limited space, registration
 - Eric Vanden-Eijnden (NYU & CFM)
 - Julia Kempe (NYU & META)
 - Pierfrancesco Urbani (IPhT)
+
+
+![EPFL AI Logo](https://ai.epfl.ch/wp-content/uploads/logo-black.svg)
+![BERNOULLI LOGO](https://bernoulli.epfl.ch/wp-content/uploads/2022/09/Bernoulli-Center-Logo-Black-Subtitle_1@4x.png)

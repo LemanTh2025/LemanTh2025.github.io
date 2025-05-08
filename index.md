@@ -46,4 +46,10 @@ Registration is free but mandatory. Note that due to limited space, registration
 - Eric Vanden-Eijnden (NYU & CFM)
 - Julia Kempe (NYU & META)
 - Pierfrancesco Urbani (IPhT)
+<<<<<<< HEAD
 - Odilon Duranthon (EPFL)
+=======
+
+<img src="https://ai.epfl.ch/wp-content/uploads/logo-black.svg" alt="EPFL AI Logo" width="200">
+<img src="https://bernoulli.epfl.ch/wp-content/uploads/2022/09/Bernoulli-Center-Logo-Black-Subtitle_1@4x.png" alt="EPFL B Logo" width="200">
+>>>>>>> cc27dac2b4789f2aff8bf397c778b07303f16eea

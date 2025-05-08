@@ -43,7 +43,7 @@ Registration is free but mandatory. Note that due to limited space, registration
 - Federica Gerace (Bologna)
 - Marc Mézard (Bocconi)
 - François Charton (META)
-- Berfin Simsek (NYU)
 - Eric Vanden-Eijnden (NYU & CFM)
 - Julia Kempe (NYU & META)
 - Pierfrancesco Urbani (IPhT)
+- Odilon Duranthon (EPFL)
